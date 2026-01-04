@@ -1,5 +1,6 @@
 (function(){
   'use strict';
+
   
   const CACHE_DURATION = 7 * 24 * 60 * 60 * 1000;
   const isMobile = /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent);
